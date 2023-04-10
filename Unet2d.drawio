@@ -1,0 +1,70 @@
+<mxfile host="app.diagrams.net" modified="2023-04-10T21:14:43.906Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="dCAeLuWnJ_MEz6Su70nd" version="21.1.5" type="github">
+  <diagram id="_oBtUuOwX0elKwT4RgEe" name="Página-1">
+    <mxGraphModel dx="1631" dy="734" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="123" value="" style="fillColor=#AE4132;strokeColor=none;opacity=30;" parent="1" vertex="1">
+          <mxGeometry x="490" y="180" width="467" height="95.5" as="geometry" />
+        </mxCell>
+        <mxCell id="2" value="Entrenamiento del modelo UNet2D para segmentación semántica" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" parent="1" vertex="1">
+          <mxGeometry x="520" y="185.5" width="427" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="12" value="Normalización y aumento de datos." style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" parent="1" vertex="1">
+          <mxGeometry x="935" y="335.5" width="305" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="13" value="Preprocesamiento de imágenes." style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14;align=center;" parent="1" vertex="1">
+          <mxGeometry x="461.00000000000006" y="335.5" width="190.00000000000006" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="14" value="División de datos en conjuntos de entrenamiento, validación y prueba." style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14;align=center;" parent="1" vertex="1">
+          <mxGeometry x="411" y="455.5" width="290" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="15" value="Selección de arquitectura de red neuronal." style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14;align=center;" parent="1" vertex="1">
+          <mxGeometry x="411" y="545.5" width="290" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="16" value="Inicialización de pesos de la red neuronal." style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14;align=center;" parent="1" vertex="1">
+          <mxGeometry x="411" y="635.5" width="290" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="17" value="Definición de función de pérdida." style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14;align=center;" parent="1" vertex="1">
+          <mxGeometry x="411" y="725.5" width="290" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="18" value="Selección de algoritmo de optimización." style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14;align=center;" parent="1" vertex="1">
+          <mxGeometry x="411" y="815.5" width="290" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="19" value="Entrenamiento de la red neuronal." style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14;align=center;" parent="1" vertex="1">
+          <mxGeometry x="411" y="905.5" width="290" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="20" value="Evaluación de resultados." style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14;align=center;" parent="1" vertex="1">
+          <mxGeometry x="411" y="995.5" width="290" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="21" value="" parent="1" source="2" target="12" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="22" value="" parent="1" source="12" target="13" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="23" value="" parent="1" source="13" target="14" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="24" value="" parent="1" source="14" target="15" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="25" value="" parent="1" source="15" target="16" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="26" value="" parent="1" source="16" target="17" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="27" value="" parent="1" source="17" target="18" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="28" value="" parent="1" source="18" target="19" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="29" value="" parent="1" source="19" target="20" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
