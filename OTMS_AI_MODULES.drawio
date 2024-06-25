@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-06-25T12:58:06.431Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="sCXxaaj4YejV5BnX62nu" version="24.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-25T13:08:30.961Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="X0VbjfsmVHSBfc8UVGDx" version="24.6.2" type="github">
   <diagram name="Página-1" id="28DYMGYW-lTGbGgKYK9i">
-    <mxGraphModel dx="2610" dy="939" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2328" dy="791" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -10,11 +10,20 @@
         <mxCell id="Kg6lwI2vOc3HsI6Ho88o-1" value="OTMS AI" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=4;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="-60" y="60" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="Kg6lwI2vOc3HsI6Ho88o-32" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;elbow=vertical;html=1;" edge="1" parent="1" source="Kg6lwI2vOc3HsI6Ho88o-2" target="Kg6lwI2vOc3HsI6Ho88o-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Kg6lwI2vOc3HsI6Ho88o-2" value="Mantenimiento Predictivo" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="-357" y="170" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="Kg6lwI2vOc3HsI6Ho88o-27" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;elbow=vertical;html=1;" edge="1" parent="1" source="Kg6lwI2vOc3HsI6Ho88o-3" target="Kg6lwI2vOc3HsI6Ho88o-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Kg6lwI2vOc3HsI6Ho88o-3" value="Optimización rendimiento Hardware" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="260" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Kg6lwI2vOc3HsI6Ho88o-26" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;elbow=vertical;html=1;" edge="1" parent="1" source="Kg6lwI2vOc3HsI6Ho88o-4" target="Kg6lwI2vOc3HsI6Ho88o-21">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Kg6lwI2vOc3HsI6Ho88o-4" value="Detección de anomalías y naturaleza" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="-60" y="170" width="120" height="60" as="geometry" />
@@ -39,10 +48,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="Kg6lwI2vOc3HsI6Ho88o-24" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;elbow=vertical;html=1;" edge="1" parent="1" source="Kg6lwI2vOc3HsI6Ho88o-12" target="Kg6lwI2vOc3HsI6Ho88o-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Kg6lwI2vOc3HsI6Ho88o-12" value="Planificación de mantenimiento preventivo" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="-670" y="170" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Kg6lwI2vOc3HsI6Ho88o-14" value="&lt;h4 style=&quot;text-align: justify;&quot;&gt;Objetivo:&lt;/h4&gt;&lt;h4 style=&quot;text-align: justify; line-height: 100%;&quot;&gt;Predecir fallas o necesidades de mantenimiento de los equipos del sistema de control antes de que ocurran.&lt;/h4&gt;&lt;h4 style=&quot;text-align: justify; line-height: 100%;&quot;&gt;Beneficio:&lt;/h4&gt;&lt;h4 style=&quot;text-align: justify;&quot;&gt;Reducir el tiempo de inactividad no planificado y los costos de reparación, mejorando la eficiencia operativa.&lt;/h4&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;fillColor=#dae8fc;strokeColor=#6c8ebf;align=right;verticalAlign=middle;" vertex="1" parent="1">
+        <mxCell id="Kg6lwI2vOc3HsI6Ho88o-14" value="&lt;h4 style=&quot;text-align: justify;&quot;&gt;Objetivo:&lt;/h4&gt;&lt;h4 style=&quot;text-align: justify; line-height: 100%;&quot;&gt;Determinar el momento óptimo para realizar el mantenimiento de los equipos.&amp;nbsp;&lt;/h4&gt;&lt;h4 style=&quot;text-align: justify; line-height: 100%;&quot;&gt;Beneficio:&lt;/h4&gt;&lt;h4 style=&quot;text-align: justify; line-height: 12px;&quot;&gt;Minimizar el tiempo de inactividad y maximizar la vida útil de los equipos.&lt;/h4&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;fillColor=#dae8fc;strokeColor=#6c8ebf;align=right;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="-750" y="300" width="280" height="150" as="geometry" />
         </mxCell>
         <mxCell id="Kg6lwI2vOc3HsI6Ho88o-15" value="" style="edgeStyle=elbowEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;elbow=vertical;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="Kg6lwI2vOc3HsI6Ho88o-12">
@@ -54,7 +66,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Kg6lwI2vOc3HsI6Ho88o-16" value="Generación de informes con LN" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+        <mxCell id="Kg6lwI2vOc3HsI6Ho88o-28" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;elbow=vertical;html=1;" edge="1" parent="1" source="Kg6lwI2vOc3HsI6Ho88o-16" target="Kg6lwI2vOc3HsI6Ho88o-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Kg6lwI2vOc3HsI6Ho88o-16" value="Generación de informes con LN" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="567" y="170" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Kg6lwI2vOc3HsI6Ho88o-17" value="" style="edgeStyle=elbowEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;elbow=vertical;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="Kg6lwI2vOc3HsI6Ho88o-16">
@@ -66,17 +81,17 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Kg6lwI2vOc3HsI6Ho88o-19" value="&lt;h4 style=&quot;text-align: justify;&quot;&gt;Objetivo:&lt;/h4&gt;&lt;p style=&quot;text-align: justify;&quot;&gt;Identificar patrones de uso y rendimiento para optimizar la operación y el mantenimiento del hardware.&lt;/p&gt;&lt;h4 style=&quot;text-align: justify;&quot;&gt;Beneficio:&lt;/h4&gt;&lt;h4 style=&quot;text-align: justify;&quot;&gt;Mejorar la eficiencia y prolongar la vida útil del hardware.&lt;/h4&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;fillColor=#dae8fc;strokeColor=#6c8ebf;align=right;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="-440" y="300" width="280" height="150" as="geometry" />
-        </mxCell>
-        <mxCell id="Kg6lwI2vOc3HsI6Ho88o-20" value="&lt;h4 style=&quot;text-align: justify;&quot;&gt;Objetivo:&lt;/h4&gt;&lt;p style=&quot;text-align: justify;&quot;&gt;Identificar patrones de uso y rendimiento del hardware de control para optimizar la operación y el mantenimiento del hardware.&lt;/p&gt;&lt;h4 style=&quot;text-align: justify;&quot;&gt;Beneficio:&lt;/h4&gt;&lt;h4 style=&quot;text-align: justify;&quot;&gt;Mejorar la eficiencia y prolongar la vida útil del hardware.&lt;/h4&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;fillColor=#dae8fc;strokeColor=#6c8ebf;align=right;verticalAlign=middle;" vertex="1" parent="1">
+        <mxCell id="Kg6lwI2vOc3HsI6Ho88o-20" value="&lt;h4 style=&quot;text-align: justify;&quot;&gt;Objetivo:&lt;/h4&gt;&lt;p style=&quot;text-align: justify;&quot;&gt;Identificar patrones de uso y rendimiento del hardware de control para optimizar la operación y el mantenimiento del hardware.&lt;/p&gt;&lt;h4 style=&quot;text-align: justify;&quot;&gt;Beneficio:&lt;/h4&gt;&lt;h4 style=&quot;text-align: justify;&quot;&gt;Mejorar la eficiencia y prolongar la vida útil del hardware.&lt;/h4&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;fillColor=#e1d5e7;strokeColor=#9673a6;align=right;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="180" y="300" width="280" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="Kg6lwI2vOc3HsI6Ho88o-21" value="&lt;h4 style=&quot;text-align: justify;&quot;&gt;Objetivo:&lt;/h4&gt;&lt;p style=&quot;text-align: justify;&quot;&gt;Identificar patrones de uso y rendimiento para optimizar la operación y el mantenimiento del hardware.&lt;/p&gt;&lt;h4 style=&quot;text-align: justify;&quot;&gt;Beneficio:&lt;/h4&gt;&lt;h4 style=&quot;text-align: justify;&quot;&gt;Mejorar la eficiencia y prolongar la vida útil del hardware.&lt;/h4&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;fillColor=#dae8fc;strokeColor=#6c8ebf;align=right;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="-130" y="300" width="280" height="150" as="geometry" />
+        <mxCell id="Kg6lwI2vOc3HsI6Ho88o-21" value="&lt;h4 style=&quot;text-align: justify;&quot;&gt;Objetivo:&lt;/h4&gt;&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial; text-align: right;&quot;&gt;Detectar comportamientos anómalos y su naturaleza en los equipos de control, que podrían indicar problemas inminentes.&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;b&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Beneficio:&lt;/span&gt;&lt;br&gt;&lt;/b&gt;&lt;/p&gt;&lt;h4 style=&quot;text-align: justify;&quot;&gt;Identificar problemas antes de que se conviertan en fallos críticos.&lt;/h4&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;fillColor=#f8cecc;strokeColor=#b85450;align=right;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="-140" y="300" width="280" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="Kg6lwI2vOc3HsI6Ho88o-22" value="&lt;h4 style=&quot;text-align: justify;&quot;&gt;Objetivo:&lt;/h4&gt;&lt;p style=&quot;text-align: justify;&quot;&gt;Identificar patrones de uso y rendimiento para optimizar la operación y el mantenimiento del hardware.&lt;/p&gt;&lt;h4 style=&quot;text-align: justify;&quot;&gt;Beneficio:&lt;/h4&gt;&lt;h4 style=&quot;text-align: justify;&quot;&gt;Mejorar la eficiencia y prolongar la vida útil del hardware.&lt;/h4&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;fillColor=#dae8fc;strokeColor=#6c8ebf;align=right;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="490" y="300" width="280" height="150" as="geometry" />
+        <mxCell id="Kg6lwI2vOc3HsI6Ho88o-22" value="&lt;h4 style=&quot;text-align: justify;&quot;&gt;Objetivo:&lt;/h4&gt;&lt;p style=&quot;text-align: justify;&quot;&gt;Identificar patrones de uso y rendimiento para optimizar la operación y el mantenimiento del hardware.&lt;/p&gt;&lt;h4 style=&quot;text-align: justify;&quot;&gt;Beneficio:&lt;/h4&gt;&lt;h4 style=&quot;text-align: justify;&quot;&gt;Mejorar la eficiencia y prolongar la vida útil del hardware.&lt;/h4&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;fillColor=#fff2cc;strokeColor=#d6b656;align=right;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="487" y="300" width="280" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="Kg6lwI2vOc3HsI6Ho88o-29" value="&lt;h4 style=&quot;text-align: justify;&quot;&gt;Objetivo:&lt;/h4&gt;&lt;h4 style=&quot;text-align: justify; line-height: 100%;&quot;&gt;Predecir fallas o necesidades de mantenimiento de los equipos del sistema de control antes de que ocurran.&lt;/h4&gt;&lt;h4 style=&quot;text-align: justify; line-height: 100%;&quot;&gt;Beneficio:&lt;/h4&gt;&lt;h4 style=&quot;text-align: justify;&quot;&gt;Reducir el tiempo de inactividad no planificado y los costos de reparación, mejorando la eficiencia operativa.&lt;/h4&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;fillColor=#dae8fc;strokeColor=#6c8ebf;align=right;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="-437" y="300" width="280" height="150" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
